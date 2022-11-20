@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          InstaPaddle
+          InstaPaddle for Kots
         </a>
       </header>
     </div>
