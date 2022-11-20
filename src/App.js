@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+import logo from './outrigger_paddle.png';
 import './App.css';
 
 function App() {
@@ -7,15 +7,15 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+        Lets get it started :)
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://www.instagram.com/katya_horton/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          InstaPaddle
         </a>
       </header>
     </div>
