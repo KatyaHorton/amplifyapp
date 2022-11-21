@@ -1,0 +1,7 @@
+{
+    "AppSyncApiName": "amplifyapp",
+    "DynamoDBBillingMode": "PAY_PER_REQUEST",
+    "DynamoDBEnableServerSideEncryption": false,
+    "S3DeploymentBucket": "amplify-amplify3be553f24ab24-staging-54717-deployment",
+    "S3DeploymentRootKey": "amplify-appsync-files/e91967136e3eb12d14754389961802a2b6cc6dfc"
+}
